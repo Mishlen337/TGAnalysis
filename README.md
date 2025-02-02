@@ -10,9 +10,9 @@
 
 ## Analisis
 ### Classical algorithms
-[x] Data description and filtering
-[x] Clustering telegram channels
-[x] Relationships between channels
-[x] Changes in relationships over time
+- [x] Data description and filtering
+- [x] Clustering telegram channels using Louvain algorithm
+- [x] Relationships between channels using local PageRank
+- [x] Changes in relationships over time using local PageRank
 
 ### Deep Learning algorithms
