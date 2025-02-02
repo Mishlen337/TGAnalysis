@@ -8,7 +8,7 @@
 
 
 
-## Analisis
+## Analysis
 ### Classical algorithms
 - [x] Data description and filtering
 - [x] Clustering telegram channels using Louvain algorithm
